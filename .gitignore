@@ -2,6 +2,7 @@
 next_git_comment.txt
 node_modules/
 npm-debug.log
+/coverage
 /.project
 /.settings
 mingw32
