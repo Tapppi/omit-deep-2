@@ -1,0 +1,9 @@
+.DS_Store
+next_git_comment.txt
+node_modules/
+npm-debug.log
+/.project
+/.settings
+mingw32
+/.idea
+/.vscode

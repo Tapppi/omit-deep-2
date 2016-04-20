@@ -1,0 +1,42 @@
+{
+  "name": "@tuup/omit-deep-2",
+  "description": "Deep omitting with support for predicate functions, and arrays",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapppi/omit-deep-2.git"
+  },
+  "author": {
+    "name": "Tapani Moilanen",
+    "email": "moilanen.tapani@gmail.com",
+    "url": "https://github.com/tapppi"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "omit",
+    "deep",
+    "predicate",
+    "property",
+    "function",
+    "recurse",
+    "object"
+  ],
+  "scripts": {
+    "test": "jest",
+    "coverage": "npm test -- --coverage"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.9",
+    "jest-cli": "^11.0.2"
+  }
+}
