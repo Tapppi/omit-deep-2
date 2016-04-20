@@ -1,5 +1,5 @@
 {
-  "name": "@tuup/omit-deep-2",
+  "name": "omit-deep-2",
   "description": "Deep omitting with support for predicate functions, and arrays",
   "version": "1.0.0",
   "license": "MIT",
