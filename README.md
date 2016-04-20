@@ -1,5 +1,11 @@
 
-# Omit object values by key / keys / predicate
+# omit-deep-2
+[![Build Status](https://travis-ci.org/Tapppi/omit-deep-2.svg?branch=master)](https://travis-ci.org/Tapppi/omit-deep-2)
+[![Coverage Status](https://coveralls.io/repos/github/Tapppi/omit-deep-2/badge.svg?branch=master)](https://coveralls.io/github/Tapppi/omit-deep-2?branch=master)
+[![npm version](https://badge.fury.io/js/omit-deep-2.svg)](https://badge.fury.io/js/omit-deep-2)
+[![npm](https://nodei.co/npm/omit-deep-2.png)](https://npmjs.com/package/omit-deep-2)
+
+> Omit object values recursively by key / keys / predicate
 
 ## Installation
 

@@ -27,6 +27,7 @@ module.exports = function omitDeep(object, predicate) {
 		};
 		debug('Created func with props: ', props);
 	} else {
+		debug('No predicate to omit with, return original object');
 		return object;
 	}
 
